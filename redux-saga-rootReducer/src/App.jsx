@@ -1,6 +1,8 @@
 import './App.css'
 import Users from './components/user/Users'
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
 
 
